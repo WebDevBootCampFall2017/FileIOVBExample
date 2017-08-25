@@ -1,0 +1,11 @@
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\bin\Debug\FileIOExample.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\bin\Debug\FileIOExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\bin\Debug\FileIOExample.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\bin\Debug\FileIOExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.vbprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.Form1.resources
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.Resources.resources
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.vbproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.exe
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.xml
+c:\users\labuser\documents\visual studio 2017\Projects\FileIOExample\FileIOExample\obj\Debug\FileIOExample.pdb
